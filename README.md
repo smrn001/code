@@ -1,4 +1,4 @@
-# Project Name
+# Online Code IDE
 
 This project is an online IDE built with React and Vite. It utilizes Tailwind CSS for styling, Monaco Editor for code editing, and Axios for API requests.
 
